@@ -75,7 +75,7 @@
 #&gt;v.&gt;&lt;&gt;#
 #&lt;^v^^&gt;#
 ######.#
-
+<br/>
 Minute 1, move down:
 #.######
 #<em>E</em>&gt;3.&lt;.#
@@ -83,7 +83,7 @@ Minute 1, move down:
 #&gt;2.22.#
 #&gt;v..^&lt;#
 ######.#
-
+<br/>
 Minute 2, move down:
 #.######
 #.2&gt;2..#
@@ -91,7 +91,7 @@ Minute 2, move down:
 #.&gt;2.^&gt;#
 #.&gt;..&lt;.#
 ######.#
-
+<br/>
 Minute 3, wait:
 #.######
 #&lt;^&lt;22.#
@@ -99,7 +99,7 @@ Minute 3, wait:
 #&gt;&lt;2&gt;..#
 #..&gt;&lt;..#
 ######.#
-
+<br/>
 Minute 4, move up:
 #.######
 #<em>E</em>&lt;..22#
@@ -107,7 +107,7 @@ Minute 4, move up:
 #&lt;2.&gt;&gt;.#
 #.^22^.#
 ######.#
-
+<br/>
 Minute 5, move right:
 #.######
 #2<em>E</em>v.&lt;&gt;#
@@ -115,7 +115,7 @@ Minute 5, move right:
 #.^&gt;^22#
 #.2..2.#
 ######.#
-
+<br/>
 Minute 6, move right:
 #.######
 #&gt;2<em>E</em>&lt;.&lt;#
@@ -123,7 +123,7 @@ Minute 6, move right:
 #&gt;..&gt;2&gt;#
 #&lt;....&gt;#
 ######.#
-
+<br/>
 Minute 7, move down:
 #.######
 #.22^2.#
@@ -131,7 +131,7 @@ Minute 7, move down:
 #&gt;&gt;v&lt;&gt;.#
 #&gt;....&lt;#
 ######.#
-
+<br/>
 Minute 8, move left:
 #.######
 #.&lt;&gt;2^.#
@@ -139,7 +139,7 @@ Minute 8, move left:
 #.22..&gt;#
 #.2v^2.#
 ######.#
-
+<br/>
 Minute 9, move up:
 #.######
 #&lt;<em>E</em>2&gt;&gt;.#
@@ -147,7 +147,7 @@ Minute 9, move up:
 #&gt;2&gt;2^.#
 #.v&gt;&lt;^.#
 ######.#
-
+<br/>
 Minute 10, move right:
 #.######
 #.2<em>E</em>.&gt;2#
@@ -155,7 +155,7 @@ Minute 10, move right:
 #&lt;&gt;.&gt;2.#
 #..&lt;&gt;..#
 ######.#
-
+<br/>
 Minute 11, wait:
 #.######
 #2^<em>E</em>^2&gt;#
@@ -163,7 +163,7 @@ Minute 11, wait:
 #..2.&gt;2#
 #.&lt;..&gt;.#
 ######.#
-
+<br/>
 Minute 12, move down:
 #.######
 #&gt;&gt;.&lt;^&lt;#
@@ -171,7 +171,7 @@ Minute 12, move down:
 #&gt;v.&gt;&lt;&gt;#
 #&lt;^v^^&gt;#
 ######.#
-
+<br/>
 Minute 13, move down:
 #.######
 #.&gt;3.&lt;.#
@@ -179,7 +179,7 @@ Minute 13, move down:
 #&gt;2<em>E</em>22.#
 #&gt;v..^&lt;#
 ######.#
-
+<br/>
 Minute 14, move right:
 #.######
 #.2&gt;2..#
@@ -187,7 +187,7 @@ Minute 14, move right:
 #.&gt;2<em>E</em>^&gt;#
 #.&gt;..&lt;.#
 ######.#
-
+<br/>
 Minute 15, move right:
 #.######
 #&lt;^&lt;22.#
@@ -195,7 +195,7 @@ Minute 15, move right:
 #&gt;&lt;2&gt;<em>E</em>.#
 #..&gt;&lt;..#
 ######.#
-
+<br/>
 Minute 16, move right:
 #.######
 #.&lt;..22#
@@ -203,7 +203,7 @@ Minute 16, move right:
 #&lt;2.&gt;&gt;<em>E</em>#
 #.^22^.#
 ######.#
-
+<br/>
 Minute 17, move down:
 #.######
 #2.v.&lt;&gt;#
@@ -211,7 +211,7 @@ Minute 17, move down:
 #.^&gt;^22#
 #.2..2<em>E</em>#
 ######.#
-
+<br/>
 Minute 18, move down:
 #.######
 #&gt;2.&lt;.&lt;#
@@ -221,20 +221,3 @@ Minute 18, move down:
 ######<em>E</em>#
 </code></pre>
 <p><em>What is the fewest number of minutes required to avoid the blizzards and reach the goal?</em></p>
-
-<article class="day-desc"><h2 id="part2">--- Part Two ---</h2><p>It seems you're on the right track. Finish simulating the process and figure out where the Elves need to go. How many rounds did you save them?</p>
-<p>In the example above, the <em>first round where no Elf moved</em> was round <code><em>20</em></code>:</p>
-<pre><code>.......#......
-....#......#..
-..#.....#.....
-......#.......
-...#....#.#..#
-#.............
-....#.....#...
-..#.....#.....
-....#.#....#..
-.........#....
-....#......#..
-.......#......
-</code></pre>
-<p>Figure out where the Elves need to go. <em>What is the number of the first round where no Elf moves?</em></p>
