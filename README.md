@@ -24,3 +24,4 @@
 - [Day 22](./day_22/README.md) - ⭐⭐
 - [Day 23](./day_23/README.md) - ⭐⭐
 - [Day 24](./day_24/README.md) - ⭐⭐
+- [Day 25](./day_25/README.md) - 
