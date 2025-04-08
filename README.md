@@ -1,1 +1,26 @@
 # Advent of Code 2022
+
+- [Day 1](./day_01/README.md) - ⭐⭐
+- [Day 2](./day_02/README.md) - ⭐⭐
+- [Day 3](./day_03/README.md) - ⭐⭐
+- [Day 4](./day_04/README.md) - ⭐⭐
+- [Day 5](./day_05/README.md) - ⭐⭐
+- [Day 6](./day_06/README.md) - ⭐⭐
+- [Day 7](./day_07/README.md) - ⭐⭐
+- [Day 8](./day_08/README.md) - ⭐⭐
+- [Day 9](./day_09/README.md) - ⭐⭐
+- [Day 10](./day_10/README.md) - ⭐⭐
+- [Day 11](./day_11/README.md) - ⭐⭐
+- [Day 12](./day_12/README.md) - ⭐⭐
+- [Day 13](./day_13/README.md) - ⭐⭐
+- [Day 14](./day_14/README.md) - ⭐⭐
+- [Day 15](./day_15/README.md) - ⭐⭐
+- [Day 16](./day_16/README.md) - ⭐
+- [Day 17](./day_17/README.md) - ⭐⭐
+- [Day 18](./day_18/README.md) - ⭐⭐
+- [Day 19](./day_19/README.md) - 
+- [Day 20](./day_20/README.md) - ⭐⭐
+- [Day 21](./day_21/README.md) - ⭐⭐
+- [Day 22](./day_22/README.md) - ⭐⭐
+- [Day 23](./day_23/README.md) - ⭐⭐
+- [Day 24](./day_24/README.md) - 
